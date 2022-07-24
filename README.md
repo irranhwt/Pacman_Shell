@@ -1,4 +1,8 @@
-# merged two files
+Data Cleaning 
+
+Download raw data
+
+#merged two files
 csvstack 2019-Oct-sample.csv 2019-Nov-sample.csv > data_merged.csv
 
 #filter and reorder
